@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS OS — Next-Generation Global Technology Ecosystem",
+  "description": "Unified technology ecosystem uniting NEXUS AI, Work productivity, Cloud infrastructure, Code studio, Connect communication, Campus education, Business suite, and Security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
